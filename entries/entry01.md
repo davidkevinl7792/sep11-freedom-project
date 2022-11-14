@@ -1,7 +1,7 @@
 # Entry 1
-##### X/X/XX
+##### 11/7/22
 
-Text
+In the pass 2 weeks, I decided to tinker with [firebase](firebase.com) since I want my game to save data and have people to log in. I'm going to make a game where you would get hints on where pets are and you would've had to track them.
 
 [Next](entry02.md)
 
