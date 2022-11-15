@@ -5,7 +5,7 @@ In the pass 2 weeks, I decided to tinker with [firebase](https://firebase.google
 
 We are currently in the first step of our EDP (Engineering Design Process) where we are suppose to define our problem. My next step is researching the problem.
 
-The two skills I used was consideration and 
+The two skills I used was consideration and . I used consideration to considerate which tools would be able to benefit our projects and which won't
 
 [Next](entry02.md)
 
