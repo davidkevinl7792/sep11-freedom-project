@@ -94,6 +94,9 @@ To solve the uncaught syntax error.<br>
 Look at [Net Ninja Youtube Playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jERUGvbudErNCeSZHWUVlb) to see their way of firebase auth and see if I can add on to what I currently have.<br>
 Look at Mr. Mueller's [example](https://github.com/brianmueller/mfa-pds/blob/main/y2122/firebase/like.html) to see if I can absorb anything to help with building my firebase.<br>
 
+We are currently in the second step of our EDP (Engineering Design Process) where we are suppose to research our problem and I was researching how to use firebase more in the authentication part. My next step is to brainstorm possible solutions and see what I can use with firebase to connect it with my project.
+
+The two skills I used was how to google and how to read. I used how to google by googling firebase authentication javascript tutorial instead of just googling firebase to get what I specifically wanted; like the language and section I wanted to learn from firebase. I also use how to read to read the document once I got on the website and dissected the specific beginner code I wanted out of all the other beginner codes.
 
 [Previous](entry01.md) | [Next](entry03.md)
 
