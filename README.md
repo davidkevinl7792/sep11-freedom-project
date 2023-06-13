@@ -9,9 +9,9 @@ For my project, I am making a pet finder website. This blog will walk through my
 
 ## Links
 
-Product(https://yalah5084.github.io/sep11-fp/index.html)
+[Product](https://yalah5084.github.io/sep11-fp/index.html)
 
-Presentation(https://github.com/yalah5084/sep11-fp)
+[Presentation](https://github.com/yalah5084/sep11-fp)
 
 ## Implications
 The pet finder website has a huge beneficial for individual since it's a platform that helps individuals advocate for their lost pets. This would start relationship with others as there's a text box that can be used to connect people to help find the pet. This website could also save the environment since there's no longer a need of sticking paper on trees just to try to find a lost pet. This could also lead to people obtaining part time jobs if the advocator decides to add a reward if they find the pet. However this may be a negative impact on infrastructure as it remove the uses of walls of buildings and walls would have less of a function.  
